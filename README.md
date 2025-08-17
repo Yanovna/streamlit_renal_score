@@ -4,7 +4,6 @@ Streamlit-приложение для расчета ключевых показ
 - **Клиренс креатинина** (по формуле Cockcroft-Gault)
 - **Скорость клубочковой фильтрации (СКФ)** (по формуле CKD-EPI)
 
-![App Screenshot](https://via.placeholder.com/800x500?text=SOFA+Calculator+Screenshot)
 
 ## Запуск
 ```bash
