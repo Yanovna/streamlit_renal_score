@@ -6,10 +6,9 @@ Streamlit-приложение для расчета ключевых показ
 
 
 ## Запуск
-```bash
 pip install -r requirements.txt
 streamlit run kidney_app.py
 
 ## 🚀 Онлайн-доступ
 
-Приложение развернуто в Streamlit Cloud: https://apprenalscore-k8hmg3uzapotc5gutsi43u.streamlit.app/
+Приложение развернуто в Streamlit Cloud: https://apprenalscore-k8hmg3uzapotc5gutsi43u.streamlit.app
